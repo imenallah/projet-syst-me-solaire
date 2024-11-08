@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../imenallah mosbah"
+		},
+		{
+			"path": "../devloppement"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projet"
+	}
+}
